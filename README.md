@@ -6,7 +6,7 @@ Fictional travel journal with the info about the three latest trips
 The journal includes the dates, location and description about the trips.
 
 ## Demo
-![The demonstration](images/travel-journal.png)
+![The demonstration](images/screenshot.png)
 
 Test it on Netlify: https://grand-swan-10232d.netlify.app
 
