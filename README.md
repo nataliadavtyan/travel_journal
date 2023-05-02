@@ -8,7 +8,7 @@ The journal includes the dates, location and description about the trips.
 ## Demo
 ![The demonstration](images/screenshot.png)
 
-Test it on Netlify: https://grand-swan-10232d.netlify.app
+Test it on Netlify: https://travel-journal-natalia-davtyan.netlify.app/
 
 ## Technologies
 The project is built using:
